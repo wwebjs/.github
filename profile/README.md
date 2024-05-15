@@ -1,10 +1,10 @@
 <div align="center">
   <br>
-
-  ![WWebJS Logos](https://raw.githubusercontent.com/wwebjs/logos/main/4_Full%20Logo%20Lockup_Small/small_banner_black.png#gh-light-mode-only)
-  ![WWebJS Logos](https://raw.githubusercontent.com/wwebjs/logos/main/4_Full%20Logo%20Lockup_Small/small_banner_white.png#gh-dark-mode-only)
-  
-  <br>
+  <p>
+    <a href="https://wwebjs.dev"><img
+        src="https://github.com/wwebjs/logos/blob/main/4_Full%20Logo%20Lockup_Small/small_banner_blue.png?raw=true"
+        title="wwebjs.dev Guide" alt="wwebjs.dev Guide" width="500" /></a>
+  </p>
 </div>
 
 ## Links
