@@ -13,7 +13,6 @@
 * [Discord Server][discord]
 * [npm][npm]
 
-[website]: https://wwebjs.dev
 [guide]: https://guide.wwebjs.dev/guide
 [guide-source]: https://github.com/wwebjs/wwebjs.dev/tree/main
 [documentation]: https://docs.wwebjs.dev/
