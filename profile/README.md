@@ -7,11 +7,10 @@
 
 ## Links
 
-* [Website][website]
+* [GitHub][gitHub]
 * [Guide][guide] ([source][guide-source])
 * [Documentation][documentation] ([source][documentation-source])
 * [Discord Server][discord]
-* [GitHub][gitHub]
 * [npm][npm]
 
 [website]: https://wwebjs.dev
